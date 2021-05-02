@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/Harshitsoni2000/Four-Card-Feature-Section)
-- [Live Site URL](https://harshitsoni2000.github.io/Four-Card-Feature-Section/)
+- [Solution URL](https://github.com/Harshitsoni2000/Single-Price-Grid-Component)
+- [Live Site URL](https://harshitsoni2000.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
